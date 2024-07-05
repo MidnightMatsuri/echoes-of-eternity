@@ -1,0 +1,51 @@
+# Ignore Obsidian system files
+.obsidian/
+.obsidian_cache
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files from editors and IDEs
+*.swp
+*.swo
+*~
+*.idea/
+.vscode/
+*.code-workspace
+
+# Ignore backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Ignore node_modules if using Node.js for scripts or plugins
+node_modules/
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Ignore compiled files
+*.class
+*.o
+*.out
+*.exe
+
+# Ignore archives
+*.zip
+*.tar.gz
+*.7z
+*.rar
+
+# Ignore configuration files for local development
+.env
+.env.local
+config.local.json
