@@ -7,7 +7,12 @@
 
 --- ---
 
-## DnD Resources and How The Game Works
+## Player Characters:
+
+
+--- ---
+
+## DnD Resources and How The Game Works:
 - [SRD Directory](zz_5eSRD/)
   - [Characterizations](zz_5eSRD/Characterizations)
   - [Equipment](zz_5eSRD/Equipment)
