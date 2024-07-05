@@ -8,7 +8,7 @@
 --- ---
 
 ## Session 0/Rules for The Campaign:
-- [Session Zero](./"SessionZero.md")
+- [Session Zero](./SessionZero.md)
 
 --- ---
 
