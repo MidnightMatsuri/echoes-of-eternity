@@ -1,0 +1,255 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Aelorian Calendar",
+      "description": "",
+      "id": "ID_1aeb3b785a6a",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Fayday",
+            "id": "ID_099b9a98194a"
+          },
+          {
+            "type": "day",
+            "name": "Brigday",
+            "id": "ID_a8697bfb09ca"
+          },
+          {
+            "type": "day",
+            "name": "Rynday",
+            "id": "ID_ab19e88b9a19"
+          },
+          {
+            "type": "day",
+            "name": "Thalday",
+            "id": "ID_08cad97a1ae9"
+          },
+          {
+            "type": "day",
+            "name": "Gorday",
+            "id": "ID_5beaeac9faea"
+          },
+          {
+            "type": "day",
+            "name": "Dramday",
+            "id": "ID_2a6ab9d8fb4a"
+          },
+          {
+            "type": "day",
+            "name": "Vorday",
+            "id": "ID_79798bb8f8c8"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Luminara",
+            "length": 30,
+            "id": "ID_0a5b3acb0828",
+            "interval": 1,
+            "offset": 30
+          },
+          {
+            "type": "month",
+            "name": "Frostvell",
+            "length": 30,
+            "id": "ID_d9bac9191909",
+            "interval": 1,
+            "offset": 30
+          },
+          {
+            "type": "month",
+            "name": "Thawen",
+            "length": 30,
+            "id": "ID_983809b89b38",
+            "interval": 1,
+            "offset": 30
+          },
+          {
+            "type": "month",
+            "name": "Verdania",
+            "length": 30,
+            "id": "ID_a8d84b6a78f8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Flamebrite",
+            "length": 30,
+            "id": "ID_6a7a1b49080b",
+            "interval": 1,
+            "offset": 30
+          },
+          {
+            "type": "month",
+            "name": "Zephyris",
+            "length": 30,
+            "id": "ID_3a2b9a3a295b",
+            "interval": 1,
+            "offset": 30
+          },
+          {
+            "type": "month",
+            "name": "Solara",
+            "length": 30,
+            "id": "ID_682ba9fbb9c8",
+            "interval": 1,
+            "offset": 30
+          },
+          {
+            "type": "month",
+            "name": "Harvestfall",
+            "length": 30,
+            "id": "ID_ca1919ba59c9",
+            "interval": 1,
+            "offset": 30
+          },
+          {
+            "type": "month",
+            "name": "Emberreach",
+            "length": 30,
+            "id": "ID_7acbeab918a8",
+            "interval": 1,
+            "offset": 30
+          },
+          {
+            "type": "month",
+            "name": "Shadevell",
+            "length": 30,
+            "id": "ID_eb3b4b38f819",
+            "interval": 1,
+            "offset": 30
+          },
+          {
+            "type": "month",
+            "name": "Frostflow",
+            "length": 30,
+            "id": "ID_8918aab9da39",
+            "interval": 1,
+            "offset": 30
+          }
+        ],
+        "moons": [
+          {
+            "name": "Lunara",
+            "cycle": 1,
+            "offset": 5,
+            "faceColor": "#d1c1c1",
+            "shadowColor": "#000",
+            "id": "ID_fa491b5aea69"
+          },
+          {
+            "name": "Aetheris",
+            "cycle": 2,
+            "offset": 6,
+            "faceColor": "#5f5959",
+            "shadowColor": "#000",
+            "id": "ID_5bf8e998990a"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2,
+        "years": [
+          {
+            "type": "year",
+            "name": "1834 AC",
+            "id": "ID_9908aad88ad9"
+          },
+          {
+            "type": "year",
+            "name": "1835 AC",
+            "id": "ID_494a780a69f9"
+          },
+          {
+            "type": "year",
+            "name": "1836 AC",
+            "id": "ID_c869a95ac859"
+          },
+          {
+            "type": "year",
+            "name": "1837 AC",
+            "id": "ID_b8ab98cb0beb"
+          },
+          {
+            "type": "year",
+            "name": "1838 AC",
+            "id": "ID_391a7829c9c9"
+          },
+          {
+            "type": "year",
+            "name": "1838 AC",
+            "id": "ID_caf919d82aaa"
+          },
+          {
+            "type": "year",
+            "name": "1839 AC",
+            "id": "ID_58882988586b"
+          },
+          {
+            "type": "year",
+            "name": "1840 AC",
+            "id": "ID_8b19fa58a9db"
+          }
+        ],
+        "useCustomYears": true
+      },
+      "current": {
+        "day": 8,
+        "month": 2,
+        "year": 1
+      },
+      "events": [],
+      "categories": [
+        {
+          "id": "ID_1ab8c81b6af9",
+          "color": "#b399e5",
+          "name": "Event Category 1"
+        }
+      ],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "DD-MM-YYYY"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_1aeb3b785a6a",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 3,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": true,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": []
+}
