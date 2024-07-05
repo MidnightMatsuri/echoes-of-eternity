@@ -1,5 +1,5 @@
 
-![Traros.png](99 Images/01 Player Characters/Traros.png)
+![Traros](99 Images/01 Player Characters/Traros.png)
 --- ---
 
 - ## Basic Information
