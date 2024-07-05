@@ -1,9 +1,5 @@
----
-quickshare-date: 2024-07-05 14:29:22
-quickshare-url: "https://noteshare.space/note/cly9157hy2008601mwe71hw183#ZI3BAW6eoXXNZrOne7vy5ry8P3+Ksm//ADZyuMmwOAM"
----
 
-![[Traros.png]]
+![Traros.png](99 Images/01 Player Characters/Traros.png)
 --- ---
 
 - ## Basic Information
