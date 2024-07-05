@@ -7,6 +7,9 @@
 
 --- ---
 
-## DnD Resources
+## DnD Resources and How The Game Works
 - [SRD Directory](zz_5eSRD/)
-- 
+  - [Characterizations](zz_5eSRD/Characterizations)
+  - [Equipment](zz_5eSRD/Equipment)
+  - [Gameplay](zz_5eSRD/Gameplay) | [Combat Help](zz_5eSRD/Gameplay/Combat)
+  - [Spellcasting](zz_5eSRD/Spellcasting)
